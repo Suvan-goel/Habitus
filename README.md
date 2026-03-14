@@ -1,4 +1,5 @@
 # Habitus
+<<<<<<< HEAD
 
 This project aims to gamify the process of tracking daily habits. As opposed to a simple checklist with scheduled reminders, this app translates the user’s real world actions into the development of a digital character within a role-playing-game.
 
@@ -71,3 +72,6 @@ This launches the Expo development server and displays a QR code in the terminal
 - **QR code not working?** Press `s` in the terminal to switch to Expo Go mode, then try scanning again.
 - **Connection issues?** If your phone can’t connect to the dev server, press `shift+s` to switch to **Tunnel** mode, which routes traffic through Expo’s servers instead of relying on local network connectivity.
 - **Slow bundling?** The first load takes longer as Metro bundles the JavaScript. Subsequent reloads are faster.
+=======
+This project aims to gamify the process of tracking daily habits. As opposed to a simple checklist with scheduled reminders, this app translates the user’s real world actions into the development of a digital character within a role-playing-game.
+>>>>>>> 6aeda35f12ec013fc9056406f2e05465db3bf94c
