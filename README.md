@@ -13,7 +13,7 @@ This project aims to gamify the process of tracking daily habits. As opposed to 
 1. **Clone the repository**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Suvan-goel/Habitus.git
    cd Habitus
    ```
 
